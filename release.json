@@ -1,0 +1,14 @@
+{
+  "opponents": {
+    "strong": {
+      "side": "red",
+      "file": "opponents/strong.wasm",
+      "sha256": "5ee7a8f0ec1150950aac4e08ab4855af0d4a917e97ecbb7a2345a031048fc046"
+    },
+    "weak": {
+      "side": "blue",
+      "file": "opponents/weak.wasm",
+      "sha256": "6a70f06389972826e6625411bfca6d6b41221ec5e6a6691b98941524e6a4221f"
+    }
+  }
+}
